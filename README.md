@@ -55,7 +55,7 @@ This title is specific, timely (2025 data), method-focused (VAE), and discovery-
 - Overleaf (MNRAS template already available)
 - GitHub for code
 
-### Starter Code I Can Give You Right Now (just say the word)
+### Starter Pack
 - Complete Colab notebook to download & preprocess one 2025 TESS sector
 - Working 1D Convolutional VAE for light curves (trained in <3 hours on Colab)
 - Anomaly scoring + visualization script
@@ -67,6 +67,3 @@ You will finish your vacation with:
 - A published (or soon-to-be) research paper
 - Deep, practical mastery of modern deep learning on real astronomical data
 - Possible real exoplanet candidates with your name on them
-
-Ready to start Day 1 right now?  
-Just reply “YES” and I’ll send you the exact Colab links + Sector recommendation for December 2025.
