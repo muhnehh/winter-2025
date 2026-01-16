@@ -1,15 +1,13 @@
-# winter-2025
+# 2026
 ### **"Unsupervised Discovery of Exoplanet Transit Candidates and Atmospheric Escape Signatures in TESS 2025 Light Curves Using Variational Autoencoders"**
 
-This title is specific, timely (2025 data), method-focused (VAE), and discovery-oriented → perfect for astro-ph.IM and MNRAS.
+This title is specific, timely, method-focused (VAE), and discovery-oriented → perfect for astro-ph.IM and MNRAS.
 
 ### Why This Exact Version Will Work in 21 Days
 - Scope reduced to **one single TESS sector from 2025** (Sector 80–84, whichever was released latest before Dec 2025) → ~27,000 light curves, but you only need ~2,000–3,000 high-quality ones.
 - Uses **only public tools** (Google Colab Pro / Kaggle GPU — both free or <$15).
 - Daily learning is built in — you will literally go from VAE beginner to publishing level in 21 days.
 - High chance of **real anomalies** because TESS 2025 sectors still have many unexamined candidates + known helium-escape planets for validation.
-
-### Exact 21-Day Schedule (4–6 hours/day = totally doable on vacation)
 
 | Day | Goal (Morning) → Learning (Afternoon) → Deliverable (Evening) |
 |-----|---------------------------------------------------------------|
